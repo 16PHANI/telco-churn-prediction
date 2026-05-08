@@ -103,4 +103,9 @@ customer-churn-prediction/
 
 ---
 
-*Part of my data science portfolio — [linkedin.com/in/phanishankar16](https://linkedin.com/in/phanishankar16)*
+## By
+
+**Boyinapalli Phani Shankar**
+GitHub: https://github.com/16PHANI
+LinkedIn: https://linkedin.com/in/phanishankar16
+Google Skill Boost : https://www.skills.google/public_profiles/a4ca4511-cc29-45dd-899f-63010edf9917
