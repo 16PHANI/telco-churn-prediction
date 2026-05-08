@@ -1,0 +1,12 @@
+# dataset (too large for GitHub — downloaded automatically by the script)
+data/Telco-Customer-Churn.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
