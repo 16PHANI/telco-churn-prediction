@@ -107,18 +107,8 @@ telco-churn-prediction/
 ---
 
 ## By
-
-
-### 👥 Authors
-
-- G. Jahnavi Durga - Research Scholar  
-- B. Phani Shankar - Research Scholar  
-- Abdul Ahad - Research Scholar  
-- A. Siddarth Chowdary - Research Scholar  
-- K. Nandini - Professor, Department of CSE  
-
-
-**Boyinapalli Phani Shankar**
-**GitHub**: https://github.com/16PHANI
-**LinkedIn**: https://linkedin.com/in/phanishankar16
-**Google Skill Boost**: https://www.skills.google/public_profiles/a4ca4511-cc29-45dd-899f-63010edf9917
+ 
+- **Boyinapalli Phani Shankar**
+- **GitHub**: https://github.com/16PHANI
+- **LinkedIn**: https://linkedin.com/in/phanishankar16
+- **Google Skill Boost**: https://www.skills.google/public_profiles/a4ca4511-cc29-45dd-899f-63010edf9917
